@@ -1,7 +1,9 @@
 Customer Churn Analysis – Telecom Industry
 
 Overview:
+
 This project analyzes customer churn in the telecom industry using SQL and machine learning.
+
 The goal is to predict churn, identify key drivers, and support data-driven retention strategies.
 
 Tools Used:
